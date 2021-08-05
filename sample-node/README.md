@@ -23,3 +23,5 @@ Run on Cloud Run:
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
+You can see this running at [https://sample-node-aftnr3vmza-uc.a.run.app](https://sample-node-aftnr3vmza-uc.a.run.app)
+
